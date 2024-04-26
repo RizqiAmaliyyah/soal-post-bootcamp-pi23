@@ -1,0 +1,8 @@
+.list-pokemon {
+  display: flex;
+  justify-content: center;
+  gap: 48px;
+  flex-wrap: wrap;
+  margin: 100px auto;
+  border-radius: 20px;
+}
