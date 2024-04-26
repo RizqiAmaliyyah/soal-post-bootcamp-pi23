@@ -1,0 +1,52 @@
+1. Apa itu React?
+-> Menurut reactjs.org react adalah sebuah library JavaScript untuk membuat user interfaces pada website, reactjs dibuat oleh tim engineer facebook, yang dirilis pada tahun 2013.
+
+Sumber: skilvul - fs bootcamp
+
+2. Apa keunggulan React?
+-> React Js is fast
+React Js Membuat aplikasi front-end menjadi lebih cepat walaupun harus menghandle berbagai macam data.
+-> React Js is modular
+Pada react js, kita dapat menerapkan konsep modular JavaScript, yakni kita dapat membagi 1 tampilan page sebuah website menjadi komponen-komponen kecil.
+-> React Js is scaleable
+React Js dapat digunakan pada aplikasi berskala kecil, besar hingga yang kompleks sekalipun.
+-> React Js is popular
+Saat ini komunitas react js sudah tersebar keseluruh dunia, dan juga sudah banyak perusahaan yang menggunakan React Js, seperti: uber, airbnb, facebook, pinterest, netflix, instagram, udemy, twitter (X), paypal, dropbox, slack dan masih banyak lagi.
+
+Sumber: skilvul - fs bootcamp
+
+3. Apa itu SPA pada React?
+-> Saat menggunakan react saat kita mengklik konten yang ada di halaman website, maka akan langsung terbuka tanpa adanya refresh karena menggunakan teknologi virtual DOM.
+
+4. Apa itu state dan props? Apa perbedaannya?
+Perbedaan keduanya:
+-> State adalah data yang lahir pada sebuah komponen, dan dapat diubah (mutable). 
+-> Props berguna untuk mengoper data dari parent component ke child component, tidak dapat diubah (immutable), bersifat satu arah, dan dapat menjadikan komponen lebih dinamis. Props dapat digunakan untuk mengoper data: string, number, boolean, array, object dan function.
+
+Sumber: Skilvul - React dasar
+
+5. Kapan harus menggunakan state dan props? Berikan contoh studi kasus
+Contoh kasus menggunakan State:
+-> Menyimpan data dari text input
+-> Menyimpan data hasil fetch
+-> Menyimpan kondisi dari sebuah model
+-> Menyimpan data bersifat dinamis dan dapat dikelola.
+
+Contoh kasus menggunakan Props:
+-> Saat kita akan menampilkan Card dengan data yang berbeda.
+
+Sumber: Skilvul - React dasar
+
+6. Apa itu state management dan kapan harus menggunakannya?
+-> State management merupakan teknik yang digunakan dalam menyimpan, mengelola dan mengakses data yang sifatnya sering berubah, seperti profil pengguna dan postingan terbaru.
+
+7. Apa itu ORM/ODM?
+-> ORM (object-relational mapping), teknik menyelaraskan kode pemrograman berbasis objek (OOP/objct-oriented programming) dengan struktur database seperti relational database (sumber: revou.com).
+-> ODM (object-document mapping), merupakan tools yang memungkinkan kita untuk berinteraksi dengan MongoDB database menggunakan javascript object (sumber: dctacademy.com).
+
+8. Apa perbedaan SQL dan NoSQL?
+Perbedaan SQL dan NoSQL:
+-> Sql memiliki struktur data yang relasional, maksudnya data disimpan dalam bentuk tabel dengan kolom dan baris yang mana struktur tabel sudah terlebih dahulu didefenisikan sebelum dapat diinput.
+-> Nosql mekiliki sturktur data yang lebih fleksibel dan tidak memiliki tabel, yang mana datanya disimpan dalam dokumen, grafik atau key-value store.
+
+Sumber: it.telkomuniversity.ac.id
